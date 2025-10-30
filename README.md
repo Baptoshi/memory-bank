@@ -193,7 +193,9 @@ MIT
 
 ## Maintainer
 
-[Baptoshi](https://github.com/Baptoshi)
+**Baptiste Castiglione**  
+[@Baptoshi](https://x.com/Baptoshi) on X  
+[GitHub](https://github.com/Baptoshi)
 
 ---
 
