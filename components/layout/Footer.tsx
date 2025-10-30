@@ -7,7 +7,7 @@ export function Footer() {
         <div className="flex items-center justify-between text-sm text-neutral-grey/60">
           <p>Memory Bank — Structured Reasoning Templates</p>
           <a
-            href="https://github.com/reputable-tech/memory-bank"
+            href="https://github.com/Baptoshi/memory-bank"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-technical-violet transition-bauhaus"
